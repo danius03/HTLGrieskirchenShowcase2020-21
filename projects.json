@@ -26,5 +26,12 @@
     "author": "Daniel Lehner",
     "year": "2020_WS",
     "status": 1
+  },
+  {
+	  "title": "PixelFactory",
+	  "folder": "PixelFactory",
+	  "author": "Daniel Eizenberger",
+	  "year": "2020_WS",
+	  "status": 1
   }
 ]
