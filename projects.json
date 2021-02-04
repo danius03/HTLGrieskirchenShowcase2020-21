@@ -1,11 +1,10 @@
 [  
     {
-	 "title": "emptytitle",
-	 "folder": "emptyFolder",
-	 "author": "emptyName",
-	 "year": "2019_WS",
-	 "info": "EmptyInfo",
-	 "status": 0
+	 "title": "Adventure Minigame",
+	 "folder": "Adventure_Minigame",
+	 "author": "Fabian Buchenberger",
+	 "year": "2020_WS",
+	 "status": 1
     },
     {
 	 "title": "emptytitle2",
