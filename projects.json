@@ -1,30 +1,37 @@
-[  
-    {
-	 "title": "Adventure Minigame",
-	 "folder": "Adventure_Minigame",
-	 "author": "Fabian Buchenberger",
-	 "year": "2020_WS",
-	 "status": 1
-    },
-    {
-	 "title": "Huter",
-	 "folder": "Huter",
-	 "author": "Max Grubauer & Paul Wiesinger",
-	 "year": "2020_WS",
-	 "status": 1
-    },
-    {
-	 "title": "AIGame",
-	 "folder": "AIGame",
-	 "author": "Jan Führer",
-	 "year": "2020_WS",
-	 "status": 1
-    },
-    {
-	 "title": "PixelFactory",
-	 "folder": "PixelFactory",
-	 "author": "Daniel Eizenberger",
-	 "year": "2020_WS",
-	 "status": 1
-    }
+[
+  {
+    "title": "Adventure Minigame",
+    "folder": "Adventure_Minigame",
+    "author": "Fabian Buchenberger",
+    "year": "2020_WS",
+    "status": 1
+  },
+  {
+    "title": "Huter",
+    "folder": "Huter",
+    "author": "Max Grubauer & Paul Wiesinger",
+    "year": "2020_WS",
+    "status": 1
+  },
+  {
+    "title": "AIGame",
+    "folder": "AIGame",
+    "author": "Jan Führer",
+    "year": "2020_WS",
+    "status": 1
+  },
+  {
+    "title": "Infiltrate the School",
+    "folder": "InfiltrateTheSchool",
+    "author": "Daniel Lehner",
+    "year": "2020_WS",
+    "status": 1
+  },
+  {
+	  "title": "PixelFactory",
+	  "folder": "PixelFactory",
+	  "author": "Daniel Eizenberger",
+	  "year": "2020_WS",
+	  "status": 1
+  }
 ]
