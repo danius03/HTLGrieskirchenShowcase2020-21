@@ -12,5 +12,12 @@
 	 "author": "Max Grubauer & Paul Wiesinger",
 	 "year": "2020_WS",
 	 "status": 1
-    }  	 
+    },
+    {
+	 "title": "AIGame",
+	 "folder": "AIGame",
+	 "author": "Jan Führer",
+	 "year": "2020_WS",
+	 "status": 1
+    }
 ]
