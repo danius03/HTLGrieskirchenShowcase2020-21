@@ -61,6 +61,13 @@
 	  "author": "Jakob Zach",
 	  "year": "2020_WS",
 	  "status": 0
+  },
+	{
+	  "title": "OneClickDeathPunch",
+	  "folder": "OneClickDeathPunch",
+	  "author": "David Baumann",
+	  "year": "2020_WS",
+	  "status": 0
   }
 	{
 	  "title": "Multiplayer Rogue-Like",
