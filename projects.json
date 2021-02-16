@@ -28,60 +28,66 @@
     "status": 1
   },
   {
-	  "title": "PixelFactory",
-	  "folder": "PixelFactory",
-	  "author": "Daniel Eizenberger",
-	  "year": "2020_WS",
-	  "status": 1
+    "title": "PixelFactory",
+    "folder": "PixelFactory",
+    "author": "Daniel Eizenberger",
+    "year": "2020_WS",
+    "status": 1
   },
   {
-	  "title": "ATOMS",
-	  "folder": "ATOMS",
-	  "author": "Emilio Miniberger",
-	  "year": "2020_WS",
-	  "status": 0
+    "title": "ATOMS",
+    "folder": "ATOMS",
+    "author": "Emilio Miniberger",
+    "year": "2020_WS",
+    "status": 0
   },
-{
-	  "title": "AlienDriftWorld",
-	  "folder": "AlienDriftWorld",
-	  "author": "Johannes Huemer",
-	  "year": "2020_WS",
-	  "status": 0
-  },
-	{
-	  "title": "Hotline Miami",
-	  "folder": "Hotline Miami",
-	  "author": "Moritz Maier",
-	  "year": "2020_WS",
-	  "status": 0
-  },
-	{
-	  "title": "2D Fighter",
-	  "folder": "2D Fighter",
-	  "author": "Jakob Zach",
-	  "year": "2020_WS",
-	  "status": 0
-  },
-	{
-	  "title": "OneClickDeathPunch",
-	  "folder": "OneClickDeathPunch",
-	  "author": "David Baumann",
-	  "year": "2020_WS",
-	  "status": 0
-  }
-	{
-	  "title": "Multiplayer Rogue-Like",
-	  "folder": "Multiplayer Rogue-Like",
-	  "author": "Jakob Jodlbauer",
-	  "year": "2020_WS",
-	  "status": 0
-  },
-
   {
-      "title": "2D_Shooter",
-      "folder": "2D_Shooter",
-      "author": "Julian Berndl",
-      "year": "2020_WS",
-      "status": 0
+    "title": "AlienDriftWorld",
+    "folder": "AlienDriftWorld",
+    "author": "Johannes Huemer",
+    "year": "2020_WS",
+    "status": 0
+  },
+  {
+    "title": "Hotline Miami",
+    "folder": "Hotline Miami",
+    "author": "Moritz Maier",
+    "year": "2020_WS",
+    "status": 0
+  },
+  {
+    "title": "2D Fighter",
+    "folder": "2D Fighter",
+    "author": "Jakob Zach",
+    "year": "2020_WS",
+    "status": 0
+  },
+  {
+    "title": "OneClickDeathPunch",
+    "folder": "OneClickDeathPunch",
+    "author": "David Baumann",
+    "year": "2020_WS",
+    "status": 0
+  },
+  {
+    "title": "Multiplayer Rogue-Like",
+    "folder": "Multiplayer Rogue-Like",
+    "author": "Jakob Jodlbauer",
+    "year": "2020_WS",
+    "status": 0
+  },
+  {
+    "title": "2D_Shooter",
+    "folder": "2D_Shooter",
+    "author": "Julian Berndl",
+    "year": "2020_WS",
+    "status": 0
+  },
+  {
+    "title": "Advanced Battles",
+    "folder": "AdvancedBattles",
+    "author": "Jonas Heschl",
+    "year": "2020_WS",
+    "status": 1
   }
 ]
