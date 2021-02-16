@@ -40,19 +40,5 @@
 	  "author": "Emilio Miniberger",
 	  "year": "2020_WS",
 	  "status": 0
-  },
-  {
-	  "title": "Hotline Miami",
-	  "folder": "Hotline Miami",
-	  "author": "Moritz Maier",
-	  "year": "2020_WS",
-	  "status": 0
-  },
-	{
-	  "title": "2D Fighter",
-	  "folder": "2D Fighter",
-	  "author": "Jakob Zach",
-	  "year": "2020_WS",
-	  "status": 0
   }
 ]
