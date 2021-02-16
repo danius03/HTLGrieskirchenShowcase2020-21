@@ -89,5 +89,12 @@
     "author": "Jonas Heschl",
     "year": "2020_WS",
     "status": 1
+  },
+  {
+    "title": "My2DFightingGame",
+    "folder": "My2DFightingGame-WebGL",
+    "author": "Luka Pilic",
+    "year": "2020_WS",
+    "status": 0
   }
 ]
