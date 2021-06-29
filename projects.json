@@ -122,5 +122,12 @@
     "author": "Emil Eichsteininger",
     "year": "2021_SS",
     "status": 0
-  }
+  },
+  {  
+        "title": "3DParkour",
+        "folder": "3D_Parkour-WebGL",
+        "author": "Luka Pilic",
+        "year": "2021_SS",
+        "status": "0"
+   }
 ]
