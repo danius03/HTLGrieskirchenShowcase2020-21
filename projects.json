@@ -129,5 +129,12 @@
         "author": "Luka Pilic",
         "year": "2021_SS",
         "status": "0"
-   }
+   },
+   {
+    "title": "DC/ACRonpa",
+    "folder": "DCACRonpa",
+    "author": "Daniel Lehner",
+    "year": "2020_SS",
+    "status": 0
+  }
 ]
